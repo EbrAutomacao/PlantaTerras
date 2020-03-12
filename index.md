@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+## Bem Vindo ao Sistema EBR
 
-You can use the [editor on GitHub](https://github.com/EbrAutomacao/PlantaTerras/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Informaçoes
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Aqui vc encontrara todos os arquivos pertencentes ao projeto terras do Golfe 
 
 ```markdown
 Syntax highlighted code block
@@ -15,11 +13,7 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
